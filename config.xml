@@ -12,6 +12,8 @@
     <description>
         Первое Новостное Приложение Бурятии. 
     </description>
+    
+    <icon src="http://cdn2.hubspot.net/hub/358230/file-472066600-png/Img/icons/news.png?width=128" />
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         Kalinin Konstantin 
